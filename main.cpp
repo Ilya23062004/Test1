@@ -13,5 +13,5 @@ while(i<=a)
      b=i*b;
      i++;
 }
-cout<<b;
+cout<<b<<i;
 }
